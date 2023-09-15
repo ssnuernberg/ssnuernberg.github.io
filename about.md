@@ -6,11 +6,11 @@ layout: page
 
 <p>Hello!
 
-I'm a full-stack software engineer with a deep proficiency in Python, Django, and JavaScript. More than just writing code, I have a knack for transforming intricate ideas into tangible solutions. My strength lies in team collaboration, thanks to my top-notch communication skills.
+I'm a full-stack software engineer with a deep proficiency in Python, Django, and JavaScript. More than just writing code, I have a knack for transforming intricate ideas into tangible solutions. My strength lies in team collaboration, thanks to my top-notch communication skills.</p>
 
-However, my journey doesn't stop at just coding. With an expansive background in project and program management, I've cultivated the art of translating the abstract and the uncertain into clear, actionable plans. My mantra? Anticipate challenges, devise strategies, and preemptively curb risks.
+<p>However, my journey doesn't stop at just coding. With an expansive background in project and program management, I've cultivated the art of translating the abstract and the uncertain into clear, actionable plans. My mantra? Anticipate challenges, devise strategies, and preemptively curb risks.</p>
 
-But here's what truly defines me: a profound commitment to contributing to projects and products that not only function seamlessly but also bridge gaps, helping and uniting people. As you delve into my blog, I hope you'll find insights that reflect this core value of mine. Thanks for stopping by, and together, let's make the digital world a place that brings us all closer!</p>
+<p>But here's what truly defines me: a profound commitment to contributing to projects and products that not only function seamlessly but also bridge gaps, helping and uniting people. As you delve into my blog, I hope you'll find insights that reflect this core value of mine. Thanks for stopping by, and together, let's make the digital world a place that brings us all closer!</p>
 
 <p>
 </p>
